@@ -5,10 +5,10 @@ from decouple import config
 
 # MySQL database connection configuration
 db_config = {
-    'user': 'root',
-    'password': '123',
-    'host': 'localhost',
-    'database': 'HR_Company',
+    'user': config('user'),
+    'password': config('password'),
+    'host': config('host'),
+    'database': config('database'),
 }
 
 # CSV file path
