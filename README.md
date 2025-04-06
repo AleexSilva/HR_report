@@ -7,7 +7,7 @@ This project analyzes absenteeism at work using datasets related to employee att
 
 ## Workflow
 
-
+![Alt Text](https://raw.githubusercontent.com/AleexSilva/HR_report/refs/heads/main/mock-up/HR_Analysis_Workflow.png)
 
 ---
 ## 📑 Table of Contents
